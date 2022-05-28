@@ -1,1 +1,1 @@
-console.log("sabado");
+console.log("domingo");
